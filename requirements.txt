@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+ollama
+faiss-cpu
+unstructured
+html2text
+tiktoken
+pypdf
+requests
+beautifulsoup4
+sentence-transformers
+google-generativeai
+langchain_google_genai
